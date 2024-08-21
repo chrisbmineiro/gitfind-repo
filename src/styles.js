@@ -8,7 +8,7 @@ export default createGlobalStyle`
   }
 
   body {
-    background: #222728;
+    background: #22272e;
     -webkit-font-smoothing: antialiased;
     color: #fff;
   }
@@ -23,9 +23,5 @@ export default createGlobalStyle`
 
   a {
     text-decoration: none;
-  }
-
-  ul {
-    list-style: none;
   }
 `
